@@ -1,0 +1,13 @@
+Step 1: pip install -r requirements.txt
+Step 2: Extract digit0to9.zip # Delete data.yaml file present inside
+Step 3: copy and change the path of data.yaml file in digit-recognition.ipynb file
+
+
+For Prediction
+
+Step 4: run the bellow cell and change the path of image of directory 
+Step 5: Copy and replace the path with the digit0to9->test->images
+
+                    OR
+
+Directly run predict.py file

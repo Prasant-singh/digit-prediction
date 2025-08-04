@@ -1,0 +1,13 @@
+train: ..C:\Users\s66\Desktop\yolo\digit0to9\train
+val: ..C:\Users\s66\Desktop\yolo\digit0to9\valid
+test: ..C:\Users\s66\Desktop\yolo\digit0to9\test
+
+nc: 13
+names: ['-', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'colon', 'slash']
+
+roboflow:
+  workspace: realtimeemployeemanagement
+  project: digit-recognition-rhpir
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/realtimeemployeemanagement/digit-recognition-rhpir/dataset/9
